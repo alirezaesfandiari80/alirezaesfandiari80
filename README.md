@@ -24,7 +24,7 @@ I'm interested in the intersection of **Graph Neural Networks (GNNs), combinator
 
 ### Connect
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](www.linkedin.com/in/alireza-esfandiari-061202233)
 
 ---
 
