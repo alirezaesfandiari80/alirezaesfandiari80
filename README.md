@@ -12,7 +12,7 @@ I'm interested in the intersection of **Graph Neural Networks (GNNs), combinator
 - **Graph Algorithms:** Theoretical foundations of graph-based computation
 
 ### Selected Projects
-
+- [mlp-mle-map-regression](https://github.com/alirezaesfandiari80/mlp-mle-map-regression)
 - [Logistic Regression from Scratch](https://github.com/alirezaesfandiari80/logistic-regression-from-scratch) — An implementation of logistic regression focused on understanding its mathematical foundations and optimization process.
 - [Perceptron from Scratch](https://github.com/alirezaesfandiari80/perceptron-from-scratch-) — An implementation of the perceptron learning algorithm and its underlying linear classification principles.
 
